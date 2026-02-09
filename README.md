@@ -9,9 +9,11 @@ Major: Statistics and Data Science (Parami University)
 📂 Dataset Source: https://www.kaggle.com/datasets/jillanisofttech/market-segmentation-in-insurance-unsupervised/data
 
 📌 Project Overview
+
 This project applies Unsupervised Machine Learning to segment credit card users into distinct behavioral groups. By analyzing spending habits, credit usage, and payment patterns, this model helps financial institutions understand customer profiles to create targeted marketing strategies and improve risk management.
 
 📊 Data Science Workflow
+
 1. Data Cleaning & Preprocessing
 Credit card datasets often contain missing values in financial fields. I handled these using:
 
